@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanban-e1238": {
+      "hosting": {
+        "firestarter": [
+          "kanban-e1238"
+        ]
+      }
+    }
+  }
+}
